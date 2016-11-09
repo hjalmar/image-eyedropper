@@ -1,0 +1,15 @@
+{
+  "name": "image-eyedropper",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Click to grab pixel color from image.",
+  "keywords": [
+  ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
