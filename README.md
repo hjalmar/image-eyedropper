@@ -1,5 +1,8 @@
 # image-eyedropper package
 
-A short description of your package.
+Grab and copy hex color from images to clipboard.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Known issues
+*zoom-to-fit does not work. Canvas size does not reflect CSS scaling of the image element.
+
+![screenshot](https://github.com/hjalmar/image-eyedropper/blob/master/preview.png)
